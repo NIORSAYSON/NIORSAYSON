@@ -14,20 +14,9 @@ Experienced in web development with a strong foundation in programming and proje
   <a href="https://www.linkedin.com/in/nestor-sayson-b8671b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.facebook.com/nestor.sayson.jr" target="_blank">
+  <a href="https://www.facebook.com/nioooooor/" target="_blank">
      <img src="https://custom-icon-badges.demolab.com/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
 
 
  <hr/>
@@ -35,8 +24,8 @@ Experienced in web development with a strong foundation in programming and proje
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c++,java,mysql,streamlit,huggingface" /><br>
 </div>
 
 <br/>
