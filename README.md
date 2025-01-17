@@ -1,8 +1,8 @@
 
 
 
-<h1>
-    # 🏄‍♂️ Nior
+<h1 align="center">
+    Hi! I'm Nior
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Nestor+B.+Sayson+Jr.;" />
 </h1>
 **`Software Developer/Web Developer`**
