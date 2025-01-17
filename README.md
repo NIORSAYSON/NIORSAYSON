@@ -1,5 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Nestor+B.+Sayson+Jr.!;" />
+    # 🏄‍♂️ Nior
+</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Nestor+B.+Sayson+Jr.;" />
 </h1>
 **`Software Developer/Web Developer`**
 Experienced in web development with a strong foundation in programming and project management. Skilled in designing and deploying web applications, with the ability to lead teams and deliver projects on time.
