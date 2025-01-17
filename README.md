@@ -1,11 +1,9 @@
-
-
-
 <h1 align="center">
-    Hi! I'm Nior
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Nestor+B.+Sayson+Jr.;" />
 </h1>
+
 **`Software Developer/Web Developer`**
+
 Experienced in web development with a strong foundation in programming and project management. Skilled in designing and deploying web applications, with the ability to lead teams and deliver projects on time.
 <p align="left">
    <a href="https://www.linkedin.com/in/nestor-sayson-b8671b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
