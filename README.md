@@ -16,10 +16,8 @@ Experienced in web development with a strong foundation in programming and proje
   </a>
   <a href="https://www.facebook.com/nioooooor/" target="_blank">
      <img src="https://custom-icon-badges.demolab.com/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
-
-
-
- <hr/>
+  </a>
+</div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
