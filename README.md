@@ -23,7 +23,7 @@ Experienced in web development with a strong foundation in programming and proje
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c++,java,mysql,streamlit,huggingface" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,mysql,tensorflow,sklearn,arduino" /><br>
 </div>
 
 <br/>
