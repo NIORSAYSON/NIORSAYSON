@@ -4,7 +4,7 @@
 
 **`Software Developer/Web Developer`**
 
-Experienced in web development with a strong foundation in programming and project management. Skilled in designing and deploying web applications, with the ability to lead teams and deliver projects on time.
+Experienced in web and mobile development with a strong foundation in programming and project management. Skilled in designing and deploying web applications, with the ability to lead teams and deliver projects on time.
 
 
 <div align="center"> 
